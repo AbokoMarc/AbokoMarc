@@ -1,80 +1,30 @@
-<!-- EN-TÊTE ANIMÉ -->
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
+# Hello! I'm ABOKO MARC 👋
 
-<p align="center">
-  Je suis un développeur passionné par la création d'applications web et logicielles robustes, du design de l'interface jusqu'à l'architecture backend.
-</p>
+### 🚀 Full Stack Developer
 
 ---
 
-<!-- SECTION TECH STACK -->
-## 🛠️ Mon Tech Stack
+### 🛠️ Mon Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://shields.io" alt="HTML5" /><br /><b>HTML5</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://shields.io" alt="CSS3" /><br /><b>CSS3</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://shields.io" alt="JavaScript" /><br /><b>JavaScript</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://shields.io" alt="Java" /><br /><b>Java</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://shields.io" alt="C++" /><br /><b>C++</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://shields.io" alt="C" /><br /><b>C</b>
-    </td>
-  </tr>
-</table>
+**Frontend:** HTML5 | CSS3 | JavaScript  
+**Backend & Programmation:** Java | C++ | C  
 
 ---
 
-<!-- SECTION STATISTIQUES GITHUB -->
-## 📊 Statistiques GitHub
+### 📊 Statistiques GitHub
 
-<p align="center">
-  <!-- GitHub Readme Stats -->
-  <img src="https://vercel.app" alt="Statistiques de ABOKO MARC" height="180" />
-  &nbsp;&nbsp;
-  <!-- Top Languages -->
-  <img src="https://vercel.app" alt="Langages les plus utilisés" height="180" />
-</p>
+![Statistiques de mon profil](https://vercel.app)
 
-<p align="center">
-  <!-- GitHub Streak Stats (Pour voir votre régularité / streak de commits) -->
-  <img src="https://herokuapp.com" alt="Streak de contributions" &height="180" />
-</p>
+![Langages les plus utilisés](https://vercel.app)
 
 ---
 
-<!-- SECTION GRAPHE DE CONTRIBUTION -->
-## 📈 Graphe de Contribution
+### 📈 Graphe de Contribution
 
-<p align="center">
-  <img src="https://vercel.app" alt="Graphe d'activité" width="100%" />
-</p>
+![Graphe d'activité](https://vercel.app)
 
 ---
 
-<!-- SECTION RÉSEAUX / CONNECT WITH ME -->
-## 🤝 Connectons-nous !
+### 🤝 Connectons-nous !
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:votre.email@example.com">
-    <img src="https://shields.io" alt="Gmail" />
-  </a>
-</p>
+[LinkedIn](https://linkedin.com) | [Gmail](mailto:votre.email@example.com)
