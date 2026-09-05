@@ -9,7 +9,7 @@
 
 ---
 
-<!-- SECTION TECH STACK AVEC LOGOS -->
+<!-- SECTION TECH STACK AVEC LOGOS PROPRES -->
 ## 🛠️ Mon Tech Stack
 
 <p align="left">
@@ -23,11 +23,10 @@
 
 ---
 
-<!-- SECTION JEU SNAKE ANIMÉ (CONTRIBUTIONS) -->
+<!-- SECTION JEU SNAKE ANIMÉ -->
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <!-- Cette animation simule le jeu Snake qui dévore vos carrés d'activité réels -->
   <img src="https://vercel.app" alt="Snake Animé" width="100%" />
 </p>
 
@@ -37,10 +36,8 @@
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <!-- Carte des statistiques globales -->
-  <img src="https://vercel.app" alt="Statistiques de ABOKO MARC" height="180" />
+  <img src="https://vercel.app" alt="Statistiques" height="180" />
   &nbsp;&nbsp;
-  <!-- Carte des langages les plus utilisés -->
   <img src="https://vercel.app" alt="Langages les plus utilisés" height="180" />
 </p>
 
