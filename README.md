@@ -11,11 +11,10 @@
 
 ---
 
-## 📊 Statistiques & Activité
+## 📈 Graphe d'Activité
 
-<!-- Un graphe d'activité alternatif et ultra-léger utilisant une URL officielle brute -->
-📊 **Suivi global de mes contributions :**
 <p align="center">
+  <!-- C'est ce lien complet qu'il faut utiliser, et non pas juste vercel.app -->
   <img src="https://vercel.app" alt="Graphe d'activité" width="100%" />
 </p>
 
