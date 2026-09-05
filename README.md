@@ -9,7 +9,7 @@
 
 ---
 
-<!-- SECTION TECH STACK AVEC LOGOS PROPRES -->
+<!-- SECTION TECH STACK -->
 ## 🛠️ Mon Tech Stack
 
 <p align="left">
