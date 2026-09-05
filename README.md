@@ -1,33 +1,23 @@
-<!-- EN-TÊTE ANIMÉ EN EFFET MACHINE À ÉCRIRE (LIEN SÉCURISÉ ET ULTRA-STABLE) -->
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
+# ⚡ Hello! Moi c'est ABOKO MARC
 
-<p align="center">
-  Je suis un développeur passionné par la création d'applications web et logicielles robustes, du design de l'interface jusqu'à l'architecture backend.
-</p>
+### 🚀 Full Stack Developer
+Je suis un développeur passionné par la création d'applications web et logicielles robustes, du design de l'interface jusqu'à l'architecture backend.
 
 ---
 
-<!-- LOGOS DE VOS TECHS AVEC EFFET DE SURVOL NATIF -->
 ## 🛠️ Mon Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev" alt="Mes Technologies" />
-</p>
+*   🌐 **Frontend :** HTML5 | CSS3 | JavaScript
+*   ⚙️ **Backend & Programmation :** Java | C++ | C
 
 ---
 
-<!-- ANIMATION DU SERPENT (SNAKE GAME) UTILISANT UNE API DE SECOURS FIABLE -->
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://vercel.app" alt="Snake Animé" width="100%" />
-</p>
+## 📈 Activité GitHub
+*(Les graphiques animés s'afficheront automatiquement ici dès que votre compte aura généré ses premières semaines de contributions publiques !)*
 
 ---
 
 ## 🤝 Connectons-nous !
 
-📧 **Email :** votre.email@example.com  
-💼 **LinkedIn :** [://linkedin.com](https://://linkedin.com)
+*   📧 **Email :** votre.email@example.com
+*   💼 **LinkedIn :** [://linkedin.com](https://://linkedin.com)
