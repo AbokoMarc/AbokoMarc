@@ -19,5 +19,5 @@ Je suis un développeur passionné par la création d'applications web et logici
 
 ## 🤝 Connectons-nous !
 
-*   📧 **Email :** votre.email@example.com
-*   💼 **LinkedIn :** [://linkedin.com](https://://linkedin.com)
+*   📧 **Email :** awouaabokomarcdarril.com
+*   💼 **LinkedIn :** www.linkedin.com/in/marc-darril-awoua-aboko-6829a8410
